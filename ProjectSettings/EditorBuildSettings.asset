@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Character_Selection.unity
+    guid: dd62da665f6b691459fe9f34b422bcef
+  - enabled: 1
+    path: Assets/Scenes/level_1.unity
+    guid: 6b25eb4c1dc697c4e804a5022a5e755e
+  - enabled: 1
+    path: Assets/Scenes/level_2.unity
+    guid: d82afd9f35dd8db46bd572ff0921fd74
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: a9b99a72f9884bb45bf67c641190fab8
+  - enabled: 1
+    path: Assets/Scenes/level_4.unity
+    guid: 9f30da42b11613c48aa98efa3d1cc343
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
+    guid: 7e9694dcf4fbe394fa609251d6c4f7ef
+  - enabled: 1
+    path: Assets/Scenes/Level_6.unity
+    guid: 6183c75caa60da8449f519de3ed501de
+  - enabled: 1
+    path: Assets/Scenes/Level_7.unity
+    guid: 4d211a2edc7793c4db9134c42ab37329
+  - enabled: 1
+    path: Assets/Scenes/level_8.unity
+    guid: 22f3bc692f37030408392caf61851ff8
+  - enabled: 1
+    path: Assets/Scenes/level_9.unity
+    guid: 81412c5496037804fb3db4ed0951463b
+  - enabled: 1
+    path: Assets/Scenes/level_10.unity
+    guid: df4c4b1c2e3bd404f97553756ecfe57c
+  - enabled: 1
+    path: Assets/Scenes/level_11.unity
+    guid: 8e0b43646cd20654aaabd2aeb1f4b795
+  - enabled: 1
+    path: Assets/Scenes/level_12.unity
+    guid: 12b92bd8bd3db3643a3d93a2e9765f05
+  - enabled: 1
+    path: Assets/Scenes/level_13.unity
+    guid: 18789964362fa79438bfeddb6ecca7bb
+  - enabled: 1
+    path: Assets/Scenes/level_14.unity
+    guid: b89d546665f6ef340a3e24a82a4f451b
+  - enabled: 1
+    path: Assets/Scenes/level_15.unity
+    guid: 740478e66526864439649e4e87dcbdfb
+  - enabled: 1
+    path: Assets/Scenes/level_16.unity
+    guid: 876a1111ccb2f0a4a89eed2d72d926a4
+  - enabled: 1
+    path: Assets/Scenes/level_17.unity
+    guid: ad4cfa476c0a4db4788111a2b502c222
+  - enabled: 1
+    path: Assets/Scenes/level_18.unity
+    guid: 1c63bbc41d6ef9249aef2e6812044e7e
+  - enabled: 1
+    path: Assets/Scenes/level_19.unity
+    guid: de9fa1651012da2459422b2218addfe4
+  - enabled: 1
+    path: Assets/Scenes/level_20.unity
+    guid: f82411c1eb9a31e47ab66ae524984ec0
+  - enabled: 1
+    path: Assets/Scenes/level_tutorial.unity
+    guid: 17978e0016919ff4098e01c6c8de069b
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SecretLevelNextPage.unity
+    guid: 3141da01ce828224c8130adfac5a25dd
+  - enabled: 1
+    path: Assets/Scenes/SettingButtonNextPage.unity
+    guid: 482c355559bd77e409db640e7fe2959c
+  - enabled: 1
+    path: Assets/Scenes/StartButtonNextPage.unity
+    guid: b8fa000e9b41c074bb550aa26a527c05
+  - enabled: 1
+    path: Assets/Scenes/TutorialButtonNextPage.unity
+    guid: 18b2dd19618f4774ead2f718fe891bc8
+  - enabled: 1
+    path: Assets/Scenes/CreditsButtonNextPage.unity
+    guid: 9b2e1e05799aba34a8f1f7e6ac275b7d
+  - enabled: 1
+    path: Assets/Scenes/Character Selection Pannel.unity
+    guid: 4c040f27433ba5c489f7ee0def3ff392
+  m_configObjects: {}

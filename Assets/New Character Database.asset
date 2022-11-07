@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7132b400ce8042645812554f4a7c7081, type: 3}
+  m_Name: New Character Database
+  m_EditorClassIdentifier: 
+  Characters:
+  - characterName: Soldier
+    characterSprite: {fileID: 7531701291650232272, guid: a288b69da415980429ef6197ddaf59fc, type: 3}
+  - characterName: Ninja
+    characterSprite: {fileID: 4278774308915442139, guid: c0a397499979cb54e9cff8981d0ed71c, type: 3}
+  - characterName: Wizard
+    characterSprite: {fileID: 3975319830151027135, guid: 41fbcc6cc0068d2438cc0f51f3908990, type: 3}
+  - characterName: Bandit
+    characterSprite: {fileID: 4278048161586089898, guid: f996ba3730907e94e9bc0c9c1b3b52da, type: 3}
